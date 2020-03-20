@@ -11,7 +11,7 @@ public class readLineOfRange
 {
    public void readofperticularrange(int line1,int line2) throws IOException
    {
-	   File f=new File("C:\\Users\\admin\\Desktop\\file1.txt");
+	   File f=new File("C:\\Users\\admin\\Desktop\\myfile.txt");
 	   FileReader fr=new FileReader(f);
 	   BufferedReader br=new BufferedReader(fr);
 	   String data;

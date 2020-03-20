@@ -1,5 +1,5 @@
 package pkg;
-
+//READ DATA LINE BY LINE
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;

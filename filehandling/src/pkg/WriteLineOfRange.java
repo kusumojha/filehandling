@@ -1,5 +1,5 @@
 package pkg;
-
+//WRITE IN .TXT FILE OF GIVEN  RANGE
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -22,8 +22,7 @@ public class WriteLineOfRange
 		 bw.write(a);
 		 bw.newLine();
 		 bw.close();
-		//System.out.println(a);
-		 
+	
 	  }
 	  
   }

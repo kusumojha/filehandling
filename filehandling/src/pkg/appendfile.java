@@ -1,5 +1,5 @@
 package pkg;
-
+//APPEND .TXT FILE
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
